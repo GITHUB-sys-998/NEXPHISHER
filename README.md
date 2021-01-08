@@ -7,7 +7,7 @@ Nexphisher is advanced phishing tool for linux and termux.
 Installation Commands:  
 $ pkg up -y  
 $ pkg install git -y  
-$ git clone https://github.com /htr-tech/nexphisher  
+$ git clone https://github.com/htr-tech/nexphisher  
 $ cd nexphisher  
 $ chmod +x *  
 $ bash tmux_setup  
