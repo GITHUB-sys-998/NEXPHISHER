@@ -32,4 +32,4 @@ $ bash nexphisher
 ![Screenshot_2021-03-19-14-26-44-15](https://user-images.githubusercontent.com/75029023/111818746-7fba4180-891a-11eb-9bcf-cdc53fe8bfbd.jpg)
 
 ### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
-> Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+> Usage of Nexphisher for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
