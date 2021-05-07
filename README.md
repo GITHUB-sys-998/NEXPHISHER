@@ -14,7 +14,7 @@ $ pkg up -y
 $ pkg install git -y 
 ```
 ```
-$ git clone https://github.com /htr-tech/nexphisher  
+$ git clone https://github.com/htr-tech/nexphisher  
 ```
 ```
 $ cd nexphisher  
